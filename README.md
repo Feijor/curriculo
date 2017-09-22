@@ -7,13 +7,15 @@ Github: [https://www.linkedin.com/in/feijor/](https://www.linkedin.com/in/feijor
 
 ## Conhecimentos
 
-* PHP (7 anos)
-* Javascript (3 anos)
-* Delphi/DevExpress/Firebird (3 anos)
+* PHP (desde 2009)
+* Javascript (desde 2010)
+* Delphi/DevExpress/Firebird (desde 2014)
+* Java (desde 2017)
+* Swift (desde 2017)
 * Banco de dados 
-* HTML e CSS (SASS)
+* HTML e CSS
 * Sistemas de controle de versão (git, svn)
-* Inglês suficiente para ler e entender
+* Inglês intermediário para leitura e interpretação
 
 
 ## Formação
@@ -28,3 +30,12 @@ Github: [https://www.linkedin.com/in/feijor/](https://www.linkedin.com/in/feijor
 * Produção – Termosystem – 2013 – 2014
 * Programador Junior Delphi – Wr2 Sistemas – 2014 – 2015
 * Programador WEB – Feijor  – 2016 - 2017
+
+## Outros conhecimentos
+
+WEB (HTML/Jade/CSS/SCSS)
+ECMAScript (Node.JS/Angular/React/jQuery)
+Mobile (Java/Swift/Cordova/Ionic/React-Native)
+Banco de dados (MySql/MongoDB/FireBase/Postgress/Elasticsearch)
+PHP
+Delphi (DevExpress/FastReport)
