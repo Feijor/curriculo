@@ -2,8 +2,8 @@
 
 Local: Palhoça - Santa Catarina | Aniversário: 08/07/1995
 
-Linkedin: [https://github.com/Feijor](https://github.com/Feijor "pessoal")
-Github: [https://www.linkedin.com/in/feijor/](https://www.linkedin.com/in/feijor/ "pessoal")
+Linkedin: [https://www.linkedin.com/in/feijor/](https://www.linkedin.com/in/feijor/ "pessoal")
+Github: [https://github.com/Feijor](https://github.com/Feijor "pessoal")
 
 ## Conhecimentos
 
@@ -30,12 +30,13 @@ Github: [https://www.linkedin.com/in/feijor/](https://www.linkedin.com/in/feijor
 * Produção – Termosystem – 2013 – 2014
 * Programador Junior Delphi – Wr2 Sistemas – 2014 – 2015
 * Programador WEB – Feijor  – 2016 - 2017
+* Programador(setor de pesquisa e desenolvimento) - Publicações online - 2017
 
 ## Outros conhecimentos
 
-WEB (HTML/Jade/CSS/SCSS)
-ECMAScript (Node.JS/Angular/React/jQuery)
-Mobile (Java/Swift/Cordova/Ionic/React-Native)
-Banco de dados (MySql/MongoDB/FireBase/Postgress/Elasticsearch)
-PHP
-Delphi (DevExpress/FastReport)
+* WEB (HTML/Jade/CSS/SCSS)
+* ECMAScript (Node.JS/Angular/React/jQuery)
+* Mobile (Java/Swift/Cordova/Ionic/React-Native)
+* Banco de dados (MySql/MongoDB/FireBase/Postgress/ElasticSearch)
+* PHP
+* Delphi (DevExpress/FastReport)
